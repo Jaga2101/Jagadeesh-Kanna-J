@@ -95,7 +95,7 @@ header{
 }
 .con1{
     width: 90px;
-    height: 570px;
+    height: 500px;
     background: #ec0ab0;
     position: absolute;
     border-radius: 10px 10px;
@@ -104,7 +104,7 @@ header{
 }
 .con2{
     width: 90px;
-    height: 570px;
+    height: 500px;
     background: #f4664a;
     position: absolute;
     border-radius: 10px 10px;
@@ -114,7 +114,7 @@ header{
 }
 .con3{
     width: 90px;
-    height: 570px;
+    height: 500px;
     background: #efef45;
     position: absolute;
     border-radius: 10px 10px;
@@ -124,7 +124,7 @@ header{
 }
 .con4{
     width: 90px;
-    height: 570px;
+    height: 500px;
     background: #89ef45;
     position: absolute;
     border-radius: 10px 10px;
@@ -134,7 +134,7 @@ header{
 }
 .con5{
     width: 90px;
-    height: 570px;
+    height: 500px;
     background: #45d3ef;
     position: absolute;
     border-radius: 10px 10px;
@@ -150,8 +150,8 @@ header{
     background: transparent;
 }
 .slider img {
-    width: 170px;
-    height: 175px;
+    width: 150px;
+    height: 155px;
     border-radius: 400px 400px;
     background: transparent;
     margin-bottom: 300px;
@@ -201,10 +201,6 @@ h4{
 .check a{
     background: transparent;
     text-decoration: none;
-}
-.check:hover{
-    border-radius: 80px 60px;
-    background: linear-gradient(20deg,#45d3ef,#89ef45,#ec0ab0);
 }
 .footer{
     background: black;
