@@ -87,7 +87,7 @@ header{
 }
 .content
 {
-    margin-top: 350px;
+    margin-top: 340px;
     width: 100%;
     height: 80%;
     display: flex;
@@ -201,6 +201,10 @@ h4{
 .check a{
     background: transparent;
     text-decoration: none;
+}
+.check:hover{
+    border-radius: 80px 60px;
+    background: linear-gradient(20deg,#45d3ef,#89ef45,#ec0ab0);
 }
 .footer{
     background: black;
